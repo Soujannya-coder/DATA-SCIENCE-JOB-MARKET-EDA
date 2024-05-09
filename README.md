@@ -83,5 +83,5 @@ pip install -r requirements.txt
 
 ## Contributors
 
-- [Aftab Mallick](https://github.com/Aftabmallick)
+- [Soujannya Deb](https://github.com/Soujannya-coder)
 
